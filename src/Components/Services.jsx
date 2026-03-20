@@ -27,7 +27,7 @@ const jobs = [
 // Update this date and the jobs list every week.
 const lastUpdated = "19 Mar 2026"
 // const recipientEmail = "rdenterprise9848@gmail.com"
-const recipientEmail = "podisinangunirmal@gmail.com"
+const recipientEmail = "rdenterprisescareers@gmail.com"
 
 function Services() {
   const [isFormOpen, setIsFormOpen] = useState(false)

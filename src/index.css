@@ -697,7 +697,17 @@ input {
   .top-fixed-shell {
     position: static;
   }
+  .brand-bar__inner {
+   display: none;
+  } 
 
+  .nav-wrap {
+        position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 30;
+  }
   .site-main {
     padding-top: 0;
   }
